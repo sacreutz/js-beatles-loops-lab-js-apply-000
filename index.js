@@ -17,3 +17,18 @@ function johnLennonFacts(array){
   }
   return newArray
 }
+
+function iLoveTheBeatles(num){
+  let newArray = []
+  
+  do {
+    newArray.push('I love the beatles')
+    num += 1;
+  }
+  
+  while {
+    num < 15; 
+  }
+  
+  
+}
