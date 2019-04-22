@@ -22,7 +22,7 @@ function iLoveTheBeatles(num){
   let newArray = []
   
   do {
-    newArray.push('I love the beatles!')
+    newArray.push('I love the Beatles!')
     num += 1;
   }
   
